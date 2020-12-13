@@ -1,8 +1,8 @@
 ### Hi there 👋
 Good morning. I am currently a student whose goal is to become a junior developer.
-===================================================================================
-
-- 🌱 I’m currently learning  - JavaScript ,Java, python
+```
+🌱 I’m currently learning-JavaScript ,Java, python
+`````
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -4,9 +4,17 @@ I am constantly working on the daily commit movement.
 ```
 🌱 I’m currently learning-JavaScript ,Java, python
 `````
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+----------------------------------------------------
+````
+- 🤔 I’m looking for help with -a study to study together
+````
+-----------------------------------------------------
+
+--------------------------------------------------
+```
+- 💬 Ask me about -JS, Java questions are welcome
+```
+----------------------------------------------------
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-![git](https://user-images.githubusercontent.com/62824389/103916404-bbcd6b00-514f-11eb-81d5-d1ffad1c3206.jpg)
+![git2](https://user-images.githubusercontent.com/62824389/103916935-6180da00-5150-11eb-83eb-9ff91272c8dd.jpg)
 
 Good morning. I am currently a student whose goal is to become a junior developer.
 I am constantly working on the daily commit movement. 

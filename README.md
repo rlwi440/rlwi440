@@ -1,6 +1,6 @@
 ![git2](https://user-images.githubusercontent.com/62824389/103917213-b02e7400-5150-11eb-9d81-abd730c8e5e6.jpg)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/rlwi440/rlwi440)
 
 
 ### Hi there 👋

@@ -1,9 +1,6 @@
-
-
+![git2](https://user-images.githubusercontent.com/62824389/103917213-b02e7400-5150-11eb-9d81-abd730c8e5e6.jpg)
 
 ### Hi there 👋
-![git2](https://user-images.githubusercontent.com/62824389/103916935-6180da00-5150-11eb-83eb-9ff91272c8dd.jpg)
-
 Good morning. I am currently a student whose goal is to become a junior developer.
 I am constantly working on the daily commit movement. 
 Whenever I want to give up, I always shout "I make it myself" .

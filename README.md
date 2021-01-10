@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Dog](https://user-images.githubusercontent.com/62824389/104124411-0d663780-5394-11eb-9054-49692fa901ac.jpg)
  
 Good morning. I am currently a student whose goal is to become a junior developer.
 I am constantly working on the daily commit movement. 

@@ -19,7 +19,7 @@ Whenever I want to give up, I always shout "I make it myself" .
 - 📫 How to reach me: umm...
 ``````
 Projects 💻
-
+----------------------------
 * (Aug 2020~ Sep,2020) BookReview 
 * (Aug 2020~ Sep,2020) AloneMemo
 * (Aug 2020 ~ Sep,2020) MovieStar

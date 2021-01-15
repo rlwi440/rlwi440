@@ -24,3 +24,8 @@ Projects 💻
 * (Aug 2020~ Sep,2020) BookReview 
 * (Aug 2020~ Sep,2020) AloneMemo
 * (Aug 2020 ~ Sep,2020) MovieStar
+* (Jau 2020 ~ Dec 2020) Web page prac 
+
+Activity 💪
+-----------------------------
+* 스파르타온라인 웹개발 종합반 2기  

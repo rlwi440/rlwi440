@@ -7,7 +7,7 @@ Whenever I want to give up, I always shout "I make it myself" .
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlwi440&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
-🌱 I’m currently learning-JavaScript ,Java, python
+🌱 I’m currently learning-JavaScript ,HTML+css , React ,Java
 `````
 ````
 - 🤔 I’m looking for help with -a study to study together

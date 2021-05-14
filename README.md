@@ -22,8 +22,8 @@ Whenever I want to give up, I always shout "I make it myself" .
 Projects 💻
 ----------------------------
 * (Aug 2020~ Sep,2020) BookReview 
-* (Aug 2020~ Sep,2020) AloneMemo
-* (Aug 2020 ~ Sep,2020) MovieStar
+* (Aug 2020~ Sep,2020) AloneMemo 
+* (Aug 2020 ~ Sep,2020) MovieStar 
 * (Jau 2020 ~ Dec 2020) Web page prac 
 * (Jau 2021 ~ Dec 2021) Hand drip (Mini Project)
 * (Jau 2021 ~ Dec 2021) Responsive web (personal project)

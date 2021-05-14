@@ -28,6 +28,7 @@ Projects 💻
 * (Jau 2021 ~ Dec 2021) Hand drip 
 * (Mar 2021 ~ Mar 2021) Responsive web 
 * (Apr 2021 ~ Apr 2021) OneDayEco 
+
 Activity 💪
 -----------------------------
 * 스파르타온라인 웹개발 종합반 2기  

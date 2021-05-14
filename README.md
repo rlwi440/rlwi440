@@ -24,11 +24,10 @@ Projects 💻
 * (Aug 2020~ Sep,2020) BookReview 
 * (Aug 2020~ Sep,2020) AloneMemo 
 * (Aug 2020 ~ Sep,2020) MovieStar 
-* (Jau 2020 ~ Dec 2020) Web page prac 
-* (Jau 2021 ~ Dec 2021) Hand drip (Mini Project)
-* (Jau 2021 ~ Dec 2021) Responsive web (personal project)
-* (Jau 2021 ~ Dec 2021) OneDayEco (Team project)
-
+* (Jau 2020 ~ Feb 2020) Web page prac 
+* (Jau 2021 ~ Dec 2021) Hand drip 
+* (Mar 2021 ~ Mar 2021) Responsive web 
+* (Apr 2021 ~ Apr 2021) OneDayEco 
 Activity 💪
 -----------------------------
 * 스파르타온라인 웹개발 종합반 2기  

@@ -18,6 +18,9 @@ Whenever I want to give up, I always shout "I make it myself" .
 ````
 - 📫 How to reach me: umm...
 ``````
+Main Stack 🐢
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png" width="100px" >
+
 
 Projects 💻
 ----------------------------

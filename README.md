@@ -28,6 +28,7 @@ Projects 💻
 * (Jau 2021 ~ Dec 2021) Hand drip 
 * (Mar 2021 ~ Mar 2021) Responsive web 
 * (Apr 2021 ~ Apr 2021) OneDayEco 
+* (June 2021 ~ June 2021) IF
 
 Activity 💪
 -----------------------------

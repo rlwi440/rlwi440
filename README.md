@@ -18,7 +18,7 @@ Notion 🎫 (클릭시 노션이동합니다.)
 
  Sub Stack 🐢
  -----------------------
- <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566777965/noticon/jrmv5eskgbngugutlrfl.png width="70px">
+ <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566777965/noticon/jrmv5eskgbngugutlrfl.png" width="70px">
 
 Study stack ✨✨
 ------------------------

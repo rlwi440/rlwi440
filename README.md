@@ -18,11 +18,11 @@ Notion 🎫 (클릭시 노션이동합니다.)
 
  Sub Stack 🐢
  -----------------------
- <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566777965/noticon/jrmv5eskgbngugutlrfl.png" width="70px">
+ <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566777965/noticon/jrmv5eskgbngugutlrfl.png" width="70px">|<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png" width="70px">
 
 Study stack ✨✨
 ------------------------
-|<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557331/noticon/d5hqar2idkoefh6fjtpu.png" width="70px">|<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566911998/noticon/pgp6gfml2syj2xujx5qp.png" width="70px">|<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png" width="70px">
+|<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557331/noticon/d5hqar2idkoefh6fjtpu.png" width="70px">|<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566911998/noticon/pgp6gfml2syj2xujx5qp.png" width="70px">
 
 
 

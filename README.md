@@ -9,12 +9,12 @@ Whenever I want to give up, I always shout "I make it myself" .
 
 블로그 🎫 (클릭시 블로그이동합니다.)
 ---------------------
-[<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="70px">](https://dev-clean-code.tistory.com/manage)
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="70px">](https://dev-clean-code.tistory.com/manage)
 
 
 Notion 🎫 (클릭시 노션이동합니다.)
 ---------------------
-[<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width="70px">](https://www.notion.so/Dashborad-0172a135f6a74b999a1aa2828a15e0a8)
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width="70px">](https://www.notion.so/Dashborad-0172a135f6a74b999a1aa2828a15e0a8)
 
 
  Main Stack 🐢

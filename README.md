@@ -33,14 +33,9 @@ Study stack ✨✨
 
 Projects 💻
 ----------------------------
-* (Aug 2020~ Sep,2020) BookReview 
-* (Aug 2020~ Sep,2020) AloneMemo 
-* (Aug 2020 ~ Sep,2020) MovieStar 
-* (Jau 2020 ~ Feb 2020) Web page prac 
-* (Jau 2021 ~ Dec 2021) Hand drip 
-* (Mar 2021 ~ Mar 2021) Responsive web 
-* (Apr 2021 ~ Apr 2021) OneDayEco 
-* (June 2021 ~ June 2021) IF
+* (Mar 2021 ~ Mar 2021) Responsive web ( HTML+CSS)
+* (Apr 2021 ~ Apr 2021) OneDayEco  (MVC Project) 
+* (June 2021 ~ June 2021) IF (Spring legacy project)
 
 Activity 💪
 -----------------------------

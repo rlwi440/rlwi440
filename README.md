@@ -7,7 +7,7 @@ Whenever I want to give up, I always shout "I make it myself" .
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlwi440&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-블로그 
+블로그 (클릭스 블로그 로 이동합니다.()
 ---------------------
 [<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="70px">](https://dev-clean-code.tistory.com/manage)
 

@@ -8,7 +8,7 @@ Whenever I want to give up, I always shout "I make it myself" .
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlwi440&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlwi440&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<script src="https://gist.github.com/rlwi440/684d4f4cf532fa2e3b57cf10af2c2de8.js"></script>
 
 Projects 💻
 ----------------------------
